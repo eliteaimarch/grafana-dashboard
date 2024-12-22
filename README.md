@@ -42,7 +42,7 @@ Extract data from the ThousandEyes REST API and visualize it on your customized 
 1. Clone repository
 
 ```
-git clone https://github.com/flopach/thousandeyes-grafana-dashboard.git
+git clone https://github.com/eliteaimarch/grafana-dashboard.git
 ```
 
 2. Change your desired settings in the **docker/py_connector/config.py** file.
